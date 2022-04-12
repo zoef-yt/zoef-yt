@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **shaikhzoef36@gmail.com**
 
 - ⚡ Fun fact **If you wanna talk about gaming. I am all ears**
