@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoef-yt&show_icons=true&locale=en" alt="zoef-yt" /></p>
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoef-yt&" alt="zoef-yt" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zoef-yt)](https://git.io/streak-stats)
