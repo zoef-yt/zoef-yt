@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/zoef_yt" target="blank"><img src="https://img.shields.io/twitter/follow/zoef_yt?logo=twitter&style=for-the-badge" alt="zoef_yt" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- ⚡ Fun fact **If you wanna talk about gaming. I am all ears**
 
 - 📫 How to reach me **shaikhzoef36@gmail.com**
-
-- ⚡ Fun fact **If you wanna talk about gaming. I am all ears**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
